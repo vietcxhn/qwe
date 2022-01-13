@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee81cb3018bfa61458ffc2d56701fc6f, type: 3}
+  m_Name: DeepSkills
+  m_EditorClassIdentifier: 
+  CharacterType: 0
+  SkillsDescription:
+  - {fileID: 11400000, guid: de15a9ae1be32424d89b5b771b05c3a5, type: 2}
+  - {fileID: 11400000, guid: e8bcf76a53095fc43a69f8cb78f6047d, type: 2}
+  - {fileID: 11400000, guid: b580cb23501ac824e8679f9ca41d73cc, type: 2}
+  - {fileID: 11400000, guid: ba5ac80b2c06aea44b412d3486b453d0, type: 2}
+  - {fileID: 11400000, guid: 7c378317e8f56d6448cd32f8ee2c274f, type: 2}
+  - {fileID: 11400000, guid: 076969fbb391a17409150ee015055850, type: 2}
+  - {fileID: 11400000, guid: 27bba586d8ad1a14ab22c076f9e18109, type: 2}
+  - {fileID: 11400000, guid: c50607aaf0c4f194bb7bc9d7d3a9342c, type: 2}
+  - {fileID: 11400000, guid: e5c3cc15206b0ab41be27e7687171897, type: 2}
+  - {fileID: 11400000, guid: 0365cd9298944069bc215adb9fafc4b6, type: 2}
+  - {fileID: 11400000, guid: 13a8df5fcf134254ad4fa779f8521127, type: 2}

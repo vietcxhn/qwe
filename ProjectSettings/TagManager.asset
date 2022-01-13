@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RunSlotUI
+  - DefenseUI
+  - UpSlotUI
+  - AttackUI
+  - JumpUI
+  - DownSlotUI
+  - Wall
+  - Ground
+  - WallRight
+  - WallLeft
+  - BG
+  - GameNetPortal
+  - Joystick
+  - HeroActionBar
+  - PartyHUD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PCs
+  - Ground
+  - NPCs
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
